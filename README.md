@@ -24,6 +24,7 @@ Add the following to the script:
             rb.AddForce(transform.forward*10000);
         }        
     }
+```
 
 
 9. Play the game.  When clicking space, the player moves, but there is no animations. 
